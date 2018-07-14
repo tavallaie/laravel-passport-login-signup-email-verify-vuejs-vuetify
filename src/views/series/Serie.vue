@@ -1,0 +1,1 @@
+<template>    </template><script>    export default {        name: "Serie"    }</script><style scoped></style>

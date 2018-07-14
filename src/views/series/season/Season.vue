@@ -1,0 +1,1 @@
+<template>    </template><script>    export default {        name: "Season"    }</script><style scoped></style>

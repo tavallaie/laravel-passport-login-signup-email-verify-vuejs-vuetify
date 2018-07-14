@@ -13,6 +13,17 @@ export default {
   name: 'home',
   components: {
     HelloWorld
-  }
+  },
+    metaInfo: {
+        title: 'Titulli i Home Page', // set a title
+        meta: [{                 // set meta
+            name: 'keyWords i home page',
+            content: 'content i home page'
+        }],
+        link: [{                 // set link
+            rel: 'asstes',
+            href: 'https://assets-cdn.github.com/'
+        }]
+    }
 }
 </script>
